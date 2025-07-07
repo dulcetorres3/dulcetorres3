@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - I am a recent graduate of Berkeley, having studied Molecular Science and Software Engineering (M.S.)
-- I am especially interested in accelerating the discovery of novel therapeutics through computer aided drug discovery
+- I am especially interested in computer aided drug discovery
 - currently: bio-informatics intern @ Genialis where I am building a RAG-augmented LLM
 - formely: medicinal chemist in the Siegel Lab (UCSD)
 - check out my website [here](https://adilenedulce33.wixsite.com/my-site-6)!
