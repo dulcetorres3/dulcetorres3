@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- I am a recent graduate of Berkeley, having studied Molecular Science and Software Engineering (M.S.)
+- I am a recent Berkeley graduate, having studied Molecular Science and Software Engineering (M.S.)
 - I am especially interested in computer aided drug discovery
 - currently: bio-informatics intern @ Genialis where I am building a RAG-augmented LLM
 - formely: medicinal chemist in the Siegel Lab (UCSD)
