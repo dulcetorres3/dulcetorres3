@@ -26,3 +26,5 @@ Here are some ideas to get you started:
 - currently: bio-informatics intern @ Genialis where I am building a RAG-augmented LLM
 - formely: medicinal chemist in the Siegel Lab (UCSD)
 - check out my website [here](https://adilenedulce33.wixsite.com/my-site-6)!
+
+Thank you for viewing! 
